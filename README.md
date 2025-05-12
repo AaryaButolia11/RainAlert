@@ -17,13 +17,13 @@
 ## 📸 Screenshots
 
 ### ✅ WhatsApp Alert (Rain Forecast)
-<center>
+
 ![WhatsApp Image 2025-05-12 at 18 01 49_f362b3d1](https://github.com/user-attachments/assets/17db8148-eece-49cf-bf5f-8f050121256d)
 
 
 
 ### ✅ SMS Alert (Rain Forecast)
-<center>
+
 ![image](https://github.com/user-attachments/assets/be8b03d0-e668-4e6e-94a7-3aab3a1ccdb4)
 
 
