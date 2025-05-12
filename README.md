@@ -17,14 +17,14 @@
 ## 📸 Screenshots
 
 ### ✅ WhatsApp Alert (Rain Forecast)
+![WhatsApp Image 2025-05-12 at 18 01 49_f362b3d1](https://github.com/user-attachments/assets/17db8148-eece-49cf-bf5f-8f050121256d)
 
-![WhatsApp Rain Alert](![image](https://github.com/user-attachments/assets/682a21c5-3c6c-4f2e-8f9b-7f81cfd2e200)
-)
+
 
 ### ✅ SMS Alert (Rain Forecast)
 
-![SMS Rain Alert](![WhatsApp Image 2025-05-12 at 18 00 46_ce020fce](https://github.com/user-attachments/assets/785560e9-4ad0-45e0-b2d4-80de5baaf33c)
-)
+![image](https://github.com/user-attachments/assets/be8b03d0-e668-4e6e-94a7-3aab3a1ccdb4)
+
 
 > 🔁 You can customize these messages or localize them as needed.
 
