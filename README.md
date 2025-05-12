@@ -45,7 +45,7 @@
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/rainalert.git
+git clone https://github.com/AaryaButolia11/rainalert.git
 cd rainalert
 ```
 ### 2. Install Dependencies
@@ -87,7 +87,7 @@ If clear:
       ✅ WhatsApp: “Enjoy your day, no rain expected ☀️”
 ## Run the Script
 ```
-python rain_alert.py
+python main.py
 ```
 ## 🧠 Future Enhancements
 Email alerts via SMTP
