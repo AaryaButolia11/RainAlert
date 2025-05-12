@@ -7,9 +7,9 @@ import os
 api_key = os.getenv("OWM_API_KEY")             # OpenWeatherMap API Key
 account_sid = os.getenv("TWILIO_ACCOUNT_SID")  # Twilio Account SID
 auth_token = os.getenv("TWILIO_AUTH_TOKEN")    # Twilio Auth Token
-from_phone = os.getenv("TWILIO_PHONE")         # Twilio SMS phone number (e.g., "+1234567890")
+from_phone = os.getenv("TWILIO_PHONE")         # Twilio SMS phone number (e.g., "+1XXXXXXXXX")
 to_phone = os.getenv("MY_PHONE_NUMBER")        # Your phone number
-from_whatsapp = os.getenv("TWILIO_WA_FROM")    # Twilio WhatsApp sender (e.g., "whatsapp:+14155238886")
+from_whatsapp = os.getenv("TWILIO_WA_FROM")    # Twilio WhatsApp sender (e.g., "whatsapp:+1XXXXXXXXXX")
 to_whatsapp = os.getenv("MY_WA_NUMBER")        # Your WhatsApp number
 
 # --- Location Coordinates (Ahmedabad, India) ---
