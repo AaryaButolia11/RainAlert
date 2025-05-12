@@ -63,9 +63,9 @@ OWM_API_KEY=your_openweathermap_api_key
 # Twilio
 TWILIO_ACCOUNT_SID=your_twilio_account_sid
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_PHONE=+1234567890
+TWILIO_PHONE=+1XXXXXXXXX
 MY_PHONE_NUMBER=+919xxxxxxxxx
-TWILIO_WA_FROM=whatsapp:+14155238886
+TWILIO_WA_FROM=whatsapp:+1XXXXXXXXXX
 MY_WA_NUMBER=whatsapp:+919xxxxxxxxx
 ```
 
